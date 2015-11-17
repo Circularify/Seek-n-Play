@@ -1,6 +1,6 @@
 # Seek 'n Play
 
-- How to use:
+## How to use:
 
 When reporting an issue, please use the following guideline. This way it will be easier for us to determine what the problem might be.
 - Choose the corresponding label (bug, feature request, etc.)
