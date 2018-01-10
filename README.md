@@ -2,7 +2,7 @@
 
 ## 
 
-Follow us on social media for the latest upates. We're on (Twitter)[http://twitter.com/circularify] and (Facebook)[http://fb.me/circularify].
+Follow us on social media for the latest upates. We're on [Twitter](http://twitter.com/circularify) and [Facebook](http://fb.me/circularify).
 
 Like what we're doing? Conside to [donate](http://paypal.me/circularify)!
 
