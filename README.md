@@ -1,5 +1,11 @@
 # Seek 'n Play
 
+## 
+
+Follow us on social media for the latest upates. We're on (Twitter)[http://twitter.com/circularify] and (Facebook)[http://fb.me/circularify].
+
+Like what we're doing? Conside to (donate)[http://paypal.me/circularifty]!
+
 ## How to use:
 
 When reporting an issue, please use the following guideline. This way it will be easier for us to determine what the problem might be.
